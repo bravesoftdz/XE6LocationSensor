@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/06/01 16:37:30.000.853,=\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/03 08:11:47.350,=\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/03 09:03:57.420,C:\locationsensor\Unit1.pas=\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/03 09:03:57.441,C:\locationsensor\Unit1.fmx=\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2014/06/03 09:04:04.657,C:\locationsensor\LocationSensor.dproj=\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <MobileDevice>HT0BRHL13970</MobileDevice>
+</BorlandProject>
